@@ -1,0 +1,2 @@
+https://api.whatsapp.com/send?phone=628814509282&text=Hai%20kak%20saya%20%20mau%20pesan%20ini%20,mohon%20bantuannya%20donk.
+https://bit.ly/3LDB1O0
